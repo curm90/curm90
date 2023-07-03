@@ -2,7 +2,7 @@
 
 💻 In my software engineering journey, I have gained experience in HTML, CSS, JavaScript, React, and Node.js, leveraging these technologies to create innovative and user-friendly web applications. I strive to write clean, maintainable code while following industry best practices.
 
-🎓 I graduated from a 12-month online bootcamp called Lambda School, now BloomTech Institution of Technology, where I honed my technical skills and gained practical experience in various software engineering disciplines. This rigorous program allowed me to work on real-world projects and collaborate with talented individuals, fostering my growth as a developer.
+🎓 I graduated from a 12-month online bootcamp called Lambda School, now Bloom Institute of Technology, where I honed my technical skills and gained practical experience in various software engineering disciplines. This rigorous program allowed me to work on real-world projects and collaborate with talented individuals, fostering my growth as a developer.
 
 🌐 Beyond traditional web development, I have a strong interest in web3 technologies, machine learning, and AI. I actively explore new advancements in these fields and seek opportunities to apply them to solve complex problems.
 
