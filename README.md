@@ -14,6 +14,7 @@
 
 Let's connect and bring ideas to life! 🌌
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
