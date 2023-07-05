@@ -15,6 +15,10 @@
 Let's connect and bring ideas to life! 🌌
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **curm90/curm90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
