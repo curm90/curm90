@@ -1,4 +1,4 @@
-👋 Hi there! I'm Liam Sutton, a passionate software engineer with a focus on web development and a keen interest in web3, machine learning, and AI. I'm also deeply involved in the world of crypto and currently working on an exciting web3 tool that provides information to crypto investors.
+👋 Hi there! I'm Liam, a passionate software engineer with a focus on web development and a keen interest in web3, machine learning, and AI. I'm also deeply involved in the world of crypto and currently working on an exciting web3 tool that provides information to crypto investors.
 
 💻 In my software engineering journey, I have gained experience in HTML, CSS, JavaScript, React, and Node.js, leveraging these technologies to create innovative and user-friendly web applications. I strive to write clean, maintainable code while following industry best practices.
 
