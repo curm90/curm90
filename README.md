@@ -29,4 +29,4 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
