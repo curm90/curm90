@@ -11,6 +11,18 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 - Building V2 of my portfolio website
 - Working on a web3 analytics website @ [Chain Detective](https://chain-detective.com/)
 
+### Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Current Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 ## 🛠️ Tech i work with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
