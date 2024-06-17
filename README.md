@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-sutton90)](https://www.linkedin.com/in/liam-sutton90/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sutton.liam77@gmail.com)](mailto:sutton.liam77@gmail.com)
 
-I am a passionate software engineer with a focus on web development and a keen interest in web3
+I am a passionate full stack software engineer with a keen interest in web3 development.
 
 ## 📋 Currently Working On:
 
