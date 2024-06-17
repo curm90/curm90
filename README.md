@@ -11,12 +11,10 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 - Building V2 of my portfolio website
 - Working on a web3 analytics website @ [Chain Detective](https://chain-detective.com/)
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" /></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=curm90&show_icons=true&theme=radical" alt="Your GitHub stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=radical" alt="Top Langs" style="width: 48%;"/>
+</div>
 
 
 
