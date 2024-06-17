@@ -13,15 +13,15 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 
 ### Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=curm90&show_icons=true&theme=radical)
 
 ### Current Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curm90&theme=radical)
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=radical)
 
 ## 🛠️ Tech i work with:
 
