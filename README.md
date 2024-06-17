@@ -1,6 +1,6 @@
 # Hi there, I'm Liam! 👋
 
-[![My portfolio](https://img.shields.io/badge/-Your%20Website-93cfb0?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![liamsutton.com](https://img.shields.io/badge/-Your%20Website-93cfb0?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-sutton90)](https://www.linkedin.com/in/liam-sutton90/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sutton.liam77@gmail.com)](mailto:sutton.liam77@gmail.com)
 
