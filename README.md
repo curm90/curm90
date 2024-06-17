@@ -11,17 +11,14 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 - Building V2 of my portfolio website
 - Working on a web3 analytics website @ [Chain Detective](https://chain-detective.com/)
 
-### Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" /></td>
+  </tr>
+</table>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=curm90&show_icons=true&theme=radical)
 
-### Current Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curm90&theme=radical)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=radical)
 
 ## 🛠️ Tech i work with:
 
@@ -42,3 +39,15 @@ I am a passionate full stack software engineer with a keen interest in web3 deve
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ### Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=curm90&show_icons=true&theme=radical) -->
+
+<!-- ### Current Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curm90&theme=radical) -->
+
+<!-- ### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=radical) -->
