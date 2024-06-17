@@ -1,36 +1,32 @@
-👋 Hi there! I'm Liam, a passionate software engineer with a focus on web development and a keen interest in web3, machine learning, and AI. I'm also deeply involved in the world of crypto and currently working on an exciting web3 tool that provides information to crypto investors.
+# Hi there, I'm Liam! 👋
 
-💻 In my software engineering journey, I have gained experience in HTML, CSS, JavaScript, React, and Node.js, leveraging these technologies to create innovative and user-friendly web applications. I strive to write clean, maintainable code while following industry best practices.
+[![Your Website](https://img.shields.io/badge/-Your%20Website-000?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-sutton90)](https://www.linkedin.com/in/liam-sutton90/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sutton.liam77@gmail.com)](mailto:sutton.liam77@gmail.com)
 
-🎓 I graduated from a 12-month online bootcamp called Lambda School, now Bloom Institute of Technology, where I honed my technical skills and gained practical experience in various software engineering disciplines. This rigorous program allowed me to work on real-world projects and collaborate with talented individuals, fostering my growth as a developer.
+I am a passionate software engineer with a focus on web development and a keen interest in web3
 
-🌐 Beyond traditional web development, I have a strong interest in web3 technologies, machine learning, and AI. I actively explore new advancements in these fields and seek opportunities to apply them to solve complex problems.
+## 📋 Currently Working On:
 
-🚀 Additionally, I have a profound love for science and space exploration. The mysteries of the universe captivate me, and I find immense inspiration in the pursuit of knowledge about our cosmic surroundings.
+- Building V2 of my portfolio website
+- Working on a web3 analytics website @ [Chain Detective](https://chain-detective.com/)
 
-📚 When I'm not coding, you can find me immersed in books, indulging in a diverse range of subjects. I believe in the power of continuous learning and strive to expand my knowledge in various domains. I'm also passionate about biohacking, exploring ways to optimize health and well-being. In my spare time, I enjoy exercising to stay active and find solace in cooking delicious meals.
+## 🛠️ Tech i work with:
 
-✉️ I am always open to collaboration and eager to contribute to exciting projects. If you're interested in discussing crypto, science, or any other fascinating topics, feel free to reach out to me through the contact information provided on my profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-Let's connect and bring ideas to life! 🌌
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**curm90/curm90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curm90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --> -->
