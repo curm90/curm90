@@ -4,12 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-sutton90)](https://www.linkedin.com/in/liam-sutton90/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sutton.liam77@gmail.com)](mailto:sutton.liam77@gmail.com)
 
-I am a passionate full stack software engineer with a keen interest in web3 development.
+I am a passionate full-stack software engineer with a strong focus on web3 development and a growing interest in AI development. I thrive on building innovative solutions and continuously expanding my skill set to stay at the forefront of emerging technologies.
 
 ## 📋 Currently Working On:
 
 - Building V2 of my portfolio website
 - Working on a web3 analytics website @ [Chain Detective](https://chain-detective.com/)
+- Taking a Udemy course on LangChain for AI development ([Link](https://www.udemy.com/course/langchain/))
 
 ## 🛠️ Tech i work with:
 
