@@ -6,8 +6,7 @@
 I am a passionate full-stack software engineer with a strong focus on web3 development and a growing interest in AI development. I thrive on building innovative solutions and continuously expanding my skill set to stay at the forefront of emerging technologies.
 
 ## 📋 Currently Working On:
-- Developing a code snippet management tool (side project)
-- Exploring new project ideas for my next side project
+- Developing an interactive whiteboard (side project)
 - Taking a Udemy course on LangChain for AI development ([Link](https://www.udemy.com/course/langchain/))
 - Actively applying for software engineering positions
 
