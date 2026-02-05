@@ -6,8 +6,8 @@
 I am a passionate full-stack software engineer with a strong focus on web3 development and a growing interest in AI development. I thrive on building innovative solutions and continuously expanding my skill set to stay at the forefront of emerging technologies.
 
 ## 📋 Currently Working On:
-- Developing an interactive whiteboard (side project)
-- Taking a Udemy course on LangChain for AI development ([Link](https://www.udemy.com/course/langchain/))
+- Building a personal workout tracker to experiment, learn, and stay consistent
+- Actively refining Streaks, my habit tracker app
 - Actively applying for software engineering positions
 
 ## 🛠️ Tech i work with:
@@ -16,6 +16,7 @@ I am a passionate full-stack software engineer with a strong focus on web3 devel
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?logo=reactquery)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
