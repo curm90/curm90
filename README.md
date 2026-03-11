@@ -11,19 +11,19 @@ I am a passionate full-stack software engineer with a strong focus on web3 devel
 - Actively applying for software engineering positions
 
 ## 🛠️ Tech i work with:
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?logo=reactquery)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=curm90&theme=dark)](https://git.io/streak-stats)
